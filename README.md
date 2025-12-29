@@ -267,17 +267,6 @@ Reinforcement_Learning_Algorithms_in_Different_Environment/
 └─ README.md
 ```
 
----
-
-## 🚀 Future Extensions
-
-- More environments (CartPole, MountainCar, Taxi)
-- More algorithms (SARSA, Q-learning, n-step TD)
-- Step-by-step Bellman update visualization
-- In-UI tooltips & explanations
-
----
-
 ## 👩‍💻 Author
 
 - **Name:** Mariam  
