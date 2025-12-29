@@ -8,7 +8,7 @@ It focuses on making **value functions, policies, and agent behavior** visible a
 
 ## 🌐 Live Demo
 
-> `http://127.0.0.1:5000/`
+> [`http://127.0.0.1:5000/`](http://127.0.0.1:5000)
 
 ---
 
